@@ -1,4 +1,4 @@
-# AIVox Broadcast Campaign System - Setup Guide
+# Aivox Broadcast Campaign System - Setup Guide
 
 ## Project Structure
 ```
@@ -56,6 +56,24 @@ npm start
 ```
 
 Frontend will run on http://localhost:3000
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+*Admin login with email and password authentication*
+
+### Dashboard - Campaign List
+![Dashboard](screenshots/dashboard.png)
+*View all broadcast campaigns with delivery statistics*
+
+### Create New Campaign
+![New Campaign Form](screenshots/new-campaign.png)
+*Create broadcast campaigns with multiple recipients*
+
+### Campaign Details with Stats
+![Campaign Stats](screenshots/campaign-stats.png)
+*Real-time delivery statistics with progress indicators*
 
 ## Login Credentials
 
