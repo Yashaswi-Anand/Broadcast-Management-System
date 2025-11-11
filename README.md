@@ -60,7 +60,7 @@ Frontend will run on http://localhost:3000
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/broadcast_dashboard.png)
 *Admin login with email and password authentication*
 
 ### Dashboard - Campaign List
