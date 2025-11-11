@@ -60,19 +60,19 @@ Frontend will run on http://localhost:3000
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/broadcast_dashboard.png)
 *Admin login with email and password authentication*
 
 ### Dashboard - Campaign List
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/broadcast_dashboard.png)
 *View all broadcast campaigns with delivery statistics*
 
 ### Create New Campaign
-![New Campaign Form](screenshots/new-campaign.png)
+![New Campaign Form](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/new_campaingn.png)
 *Create broadcast campaigns with multiple recipients*
 
 ### Campaign Details with Stats
-![Campaign Stats](screenshots/campaign-stats.png)
+![Campaign Stats](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/broadcast_dashboard_1.png)
 *Real-time delivery statistics with progress indicators*
 
 ## Login Credentials
