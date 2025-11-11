@@ -75,6 +75,18 @@ Frontend will run on http://localhost:3000
 ![Campaign Stats](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/broadcast_dashboard_1.png)
 *Real-time delivery statistics with progress indicators*
 
+### User Database
+![Campaign Stats](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/user_db.png)
+*List of Authentic Users*
+
+### Recipient Database
+![Campaign Stats](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/recipients_db.png)
+*List of Recipient*
+
+### Broadcast Database
+![Campaign Stats](https://github.com/Yashaswi-Anand/Broadcast-Management-System/blob/master/screenshots/broadcast_db.png)
+*List of Broadcast Phone Numbers*
+
 ## Login Credentials
 
 - **Email:** admin@demo.com
